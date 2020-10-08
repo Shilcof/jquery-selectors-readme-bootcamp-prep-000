@@ -12,7 +12,7 @@ function ninjaBabySelector() {
   return $('p')
 }
 
-function paragraphSelector() {
+function divSelector() {
   return $('p')
 }
 
