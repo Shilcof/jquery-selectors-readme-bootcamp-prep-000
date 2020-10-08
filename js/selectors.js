@@ -9,13 +9,13 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $('p')
+  return $('#')
 }
 
 function divSelector() {
-  return $('p')
+  return $('.pics')
 }
 
-function paragraphSelector() {
-  return $('p')
+function firstListItem() {
+  return $('ul #pic-list:first')
 }
